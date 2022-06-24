@@ -13,7 +13,7 @@ public class TestAddd {
 			
 		}
 
-		private static void testAddd() throws Exception, Exception, Exception {
+		private static void testAddd() throws Exception {
 	
 		
 			
